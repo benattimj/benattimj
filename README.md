@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**benattimj/benattimj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<table>
-  <tr>
-    <td valign="center">
+
 - 🔭 I’m currently working on e-commerce full responsive UI/UX as FullStack ( ReactJS,NodeJS )
 - 📫 How to reach me: https://www.linkedin.com/in/murilo-justinob/
 
@@ -15,10 +11,6 @@
       🎯 My Goal is to Contribute to as many **open source project** as possible.
       ✨ I love to create new projects.
 
-# this is my daily.dev card, you can edit this accordingly
-     </td>
-  </tr>
-  </table>
 
 Languages
 
