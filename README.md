@@ -16,7 +16,7 @@
       ✨ I love to create new projects.
 
 # this is my daily.dev card, you can edit this accordingly
-     
+     </td>
   </tr>
   </table>
 
