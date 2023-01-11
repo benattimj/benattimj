@@ -16,5 +16,16 @@ Languages
 
  - English Fluently
  - Portuguese Fluently
- - Based in London - UK
 
+About me
+
+ - Based in London - UK
+ - 27 years old
+ - European citizen
+ - Right-to-work UK 
+ 
+ Achievements
+   
+   - JavaScript
+   - Specialist Programimg basics - Computer Science Bacharelor's
+   - Java
