@@ -2,20 +2,17 @@
 
 <!--
 **benattimj/benattimj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
 
 Here are some ideas to get you started:
-
+<tr>
 - 🔭 I’m currently working on e-commerce full responsive UI/UX as FullStack ( ReactJS,NodeJS )
 - 📫 How to reach me: https://www.linkedin.com/in/murilo-justinob/
 
 🛠️ Skills
 
 -->
-
-#61DAFB
-
-
-<table>
+</tr>
   <tr>
     <td valign="center">
       🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
