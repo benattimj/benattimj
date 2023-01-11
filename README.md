@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 🛠️ Skills
 
 -->
-![javascript](https://user-images.githubusercontent.com/95152221/211714425-a8a4ed95-d022-4617-9153-b4f5c0630269.svg)
+
 #61DAFB
 
 
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
       ✨ I love to create new projects.
 <td >
 # this is my daily.dev card, you can edit this accordingly
-      <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
     </td>
     
   </tr>
