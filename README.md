@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on e-commerce full responsive UI/UX as FullStack ( ReactJS,NodeJS )
 - 📫 How to reach me: https://www.linkedin.com/in/murilo-justinob/
 
-🛠️ Skills : Java, JavaScript, HTML, CSS, REACTJS, MYSQL, MONGODB, NODEJS, GIT, GITHUB, SPRINGBOOT, HIBERNATE, REST....
+🛠️ Skills : Java, BootStrap, JavaScript, HTML, CSS, REACTJS, MYSQL, MONGODB, NODEJS, GIT, GITHUB, SPRINGBOOT, HIBERNATE, REST....
 
      🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
       🌱 I am currently learning **Java, REACTJS, NODEJS** and also interested in **Web Development**.
@@ -19,8 +19,7 @@ Languages
 
 About me
 
- - Based in London - UK
- - 27 years old
+ - 28 years old
  - European citizen
  - Right-to-work UK 
  - Brazilian and Italian nationality
@@ -28,8 +27,11 @@ About me
  Achievements
    
    - JavaScript
+   - BootStrap
+   - ReactJS
    - Specialist Programimg basics - Computer Science Bacharelor's
    - Java
+   - 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
