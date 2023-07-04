@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on e-commerce full responsive UI/UX as FullStack ( ReactJS,NodeJS )
+- 🔭 I’m currently working on e-commerce full responsive UI/UX as FullStack ( ReactJS,NodeJS, JAVA )
 - 📫 How to reach me: https://www.linkedin.com/in/murilo-justinob/
 
 🛠️ Skills : Java, BootStrap, JavaScript, HTML, CSS, REACTJS, MYSQL, MONGODB, NODEJS, GIT, GITHUB, SPRINGBOOT, HIBERNATE, REST....
@@ -31,7 +31,8 @@ About me
    - ReactJS
    - Specialist Programimg basics - Computer Science Bacharelor's
    - Java
-   - 
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
