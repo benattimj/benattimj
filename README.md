@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on e-commerce full responsive UI/UX as FullStack ( ReactJS,NodeJS, JAVA )
+- 🔭 I’m currently working on e-commerce full responsive UI/UX as FullStack ( ReactJS,NodeJS, JAVA and now NEXTJS 2023 )
 - 📫 How to reach me: https://www.linkedin.com/in/murilo-justinob/
 
 🛠️ Skills : Java, BootStrap, JavaScript, HTML, CSS, REACTJS, MYSQL, MONGODB, NODEJS, GIT, GITHUB, SPRINGBOOT, HIBERNATE, REST....
