@@ -19,7 +19,7 @@ Languages
 
 About me
 
- - 28 years old
+ - 30 years old
  - European citizen
  - Right-to-work UK 
  - Brazilian and Italian nationality
