@@ -3,10 +3,10 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/murilo-justinob/
 
-🛠️ Skills : Java, BootStrap, JavaScript, HTML, CSS, REACTJS, MYSQL, MONGODB, NODEJS, GIT, GITHUB, SPRINGBOOT, HIBERNATE, REST....
+🛠️ Skills : Python, Java, BootStrap, JavaScript, HTML, CSS, REACTJS, MYSQL, MONGODB, NODEJS, GIT, GITHUB, SPRINGBOOT, HIBERNATE, REST....
 
      🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-      🌱 I am currently learning **Java, REACTJS, NODEJS** and also interested in **Web Development**.
+      🌱 I am currently learning **Java, REACTJS, PYTHON** and also interested in **Web Development**.
       🎯 My Goal is to Contribute to as many **open source project** as possible.
       ✨ I love to create new projects.
 
@@ -18,13 +18,14 @@ Languages
 
 About me
 
- - 30 years old
+ - 31 years old
  - European citizen
  - Right-to-work UK 
  - Brazilian and Italian nationality
  
  Achievements
-   
+
+   - Python
    - JavaScript
    - BootStrap
    - ReactJS
